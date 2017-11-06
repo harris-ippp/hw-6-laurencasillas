@@ -4,12 +4,12 @@
 
 body {/* margin: 0 10%; */}
 
-h1 { color: darkred; }
+h1 { color: blue; }
 
 ul.nav {
   margin: 0;
   padding: 0;
-  background-color: darkred;
+  background-color: blue;
 }
 
 ul.nav li { display: inline; }
@@ -27,7 +27,7 @@ ul.nav li a:hover {
 }
 
 ul.nav li a.active {
-  color: darkred;
+  color: blue;
   background-color: #FFF;
   font-weight: bold;
 }
@@ -40,7 +40,7 @@ ul.nav li:hover {
 img {
   border: 10px;
   border-style: solid;
-  border-color: darkred;
+  border-color: blue;
   margin: 0px 40px;
   float: right;
 }
@@ -48,7 +48,7 @@ img {
 table {
   border-width: 0px 0px 5px 0px;
   border-style: solid;
-  border-color: darkred;
+  border-color: blue;
   background: #eee;
   padding: 0px;
   border-spacing: 0px;
@@ -57,7 +57,7 @@ table {
 
 th {
   color: white;
-  background-color: darkred;
+  background-color: blue;
 }
 
 th, td {
