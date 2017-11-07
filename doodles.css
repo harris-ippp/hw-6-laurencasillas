@@ -27,7 +27,7 @@ ul.nav li a:hover {
 }
 
 ul.nav li a.active {
-  color: blue;
+  color: #acc;
   background-color: #FFF;
   font-weight: bold;
 }
