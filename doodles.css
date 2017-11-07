@@ -4,13 +4,13 @@
 
 body {/* margin: 0 10%; */}
 
-h1 { color: blue; }
-h2 { color: blue; }
+h1 { color: #405FA4; }
+h2 { color: #405FA4; }
 
 ul.nav {
   margin: 0;
   padding: 0;
-  background-color: blue;
+  background-color: #405FA4;
 }
 
 ul.nav li { display: inline; }
@@ -28,7 +28,7 @@ ul.nav li a:hover {
 }
 
 ul.nav li a.active {
-  color: blue;
+  color: #405FA4;
   background-color: #FFF;
   font-weight: bold;
 }
@@ -41,7 +41,7 @@ ul.nav li:hover {
 img {
   border: 10px;
   border-style: solid;
-  border-color: blue;
+  border-color: #405FA4;
   margin: 0px 40px;
   float: left;
 }
@@ -58,7 +58,7 @@ table {
 
 th {
   color: white;
-  background-color: blue;
+  background-color: #405FA4;
 }
 
 th, td {
@@ -70,6 +70,6 @@ td.trcell, td.facell, td.uicell {
   font-weight: bold;
 }
 
-td.trcell { color: blue;   }
-td.facell { color: blue;     }
-td.uicell { color: blue; }
+td.trcell { color: #405FA4;   }
+td.facell { color: #405FA4;   }
+td.uicell { color: #405FA4;   }
