@@ -27,7 +27,7 @@ ul.nav li a:hover {
 }
 
 ul.nav li a.active {
-  color: #acc;
+  color: blue;
   background-color: #FFF;
   font-weight: bold;
 }
@@ -69,6 +69,6 @@ td.trcell, td.facell, td.uicell {
   font-weight: bold;
 }
 
-td.trcell { color: blue;   }
+td.trcell { color: dark blue;   }
 td.facell { color: blue;     }
 td.uicell { color: blue; }
