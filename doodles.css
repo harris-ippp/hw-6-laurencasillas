@@ -1,10 +1,11 @@
 * { 
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Goudy Bookletter 1911", sans-serif;
 }
 
 body {/* margin: 0 10%; */}
 
 h1 { color: blue; }
+h2 { color: blue; }
 
 ul.nav {
   margin: 0;
@@ -42,7 +43,7 @@ img {
   border-style: solid;
   border-color: blue;
   margin: 0px 40px;
-  float: center;
+  float: left;
 }
 
 table {
@@ -69,6 +70,6 @@ td.trcell, td.facell, td.uicell {
   font-weight: bold;
 }
 
-td.trcell { color: dark blue;   }
+td.trcell { color: blue;   }
 td.facell { color: blue;     }
 td.uicell { color: blue; }
