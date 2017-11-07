@@ -33,7 +33,7 @@ ul.nav li a.active {
 }
 
 ul.nav li:hover { 
-  background-color: #555;
+  background-color: grey;
   transition: 0s;
 }
 
@@ -42,13 +42,13 @@ img {
   border-style: solid;
   border-color: blue;
   margin: 0px 40px;
-  float: right;
+  float: center;
 }
 
 table {
-  border-width: 0px 0px 5px 0px;
+  border-width: 0px 0px 3px 0px;
   border-style: solid;
-  border-color: blue;
+  border-color: grey;
   background: #eee;
   padding: 0px;
   border-spacing: 0px;
@@ -69,6 +69,6 @@ td.trcell, td.facell, td.uicell {
   font-weight: bold;
 }
 
-td.trcell { color: green;   }
-td.facell { color: red;     }
-td.uicell { color: #ffc107; }
+td.trcell { color: blue;   }
+td.facell { color: blue;     }
+td.uicell { color: blue; }
