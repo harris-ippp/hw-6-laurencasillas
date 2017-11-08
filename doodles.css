@@ -42,8 +42,7 @@ img {
   border: 10px;
   border-style: solid;
   border-color: #405FA4;
-  margin: 0px 40px;
-  
+  margin: 0px 40px; 
 }
 
 table {
@@ -54,6 +53,14 @@ table {
   padding: 0px;
   border-spacing: 0px;
   margin: 10px 30px;
+}
+
+.grid {
+  float: left;
+  width: 960px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #405FA4;
 }
 
 th {
@@ -75,9 +82,4 @@ td.facell { color: #405FA4;   }
 td.uicell { color: #405FA4;   }
 
 
-.grid {
-float: left;
-width: 960px;
-padding-left: 15px;
-padding-right: 15px;
-}
+
