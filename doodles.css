@@ -77,4 +77,7 @@ td.uicell { color: #405FA4;   }
 
 .grid {
 float: left;
+width: 960px;
+padding-left: 15px;
+padding-right: 15px;
 }
