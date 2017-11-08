@@ -43,7 +43,7 @@ img {
   border-style: solid;
   border-color: #405FA4;
   margin: 0px 40px;
-  float: left;
+  
 }
 
 table {
@@ -73,3 +73,8 @@ td.trcell, td.facell, td.uicell {
 td.trcell { color: #405FA4;   }
 td.facell { color: #405FA4;   }
 td.uicell { color: #405FA4;   }
+
+
+.grid {
+float: left;
+}
